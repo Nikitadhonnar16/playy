@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/playy/static/css/main.83aa5e84.css",
+    "main.js": "/playy/static/js/main.62dd0e11.js",
+    "static/js/453.f68e0591.chunk.js": "/playy/static/js/453.f68e0591.chunk.js",
+    "static/media/playy.webp": "/playy/static/media/playy.f63f29eaf2da739a6906.webp",
+    "static/media/office1.webp": "/playy/static/media/office1.9e2be53a2a4667485986.webp",
+    "index.html": "/playy/index.html",
+    "main.83aa5e84.css.map": "/playy/static/css/main.83aa5e84.css.map",
+    "main.62dd0e11.js.map": "/playy/static/js/main.62dd0e11.js.map",
+    "453.f68e0591.chunk.js.map": "/playy/static/js/453.f68e0591.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83aa5e84.css",
+    "static/js/main.62dd0e11.js"
+  ]
+}
